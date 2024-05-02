@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/TrufaCafe/static/css/main.ecfd44b2.css",
-    "main.js": "/TrufaCafe/static/js/main.25457131.js",
-    "static/js/453.e01da9ef.chunk.js": "/TrufaCafe/static/js/453.e01da9ef.chunk.js",
-    "static/media/LogoTrufa.png": "/TrufaCafe/static/media/LogoTrufa.fa7a515d880622276a15.png",
-    "static/media/book-minimalistic-svgrepo-com.svg": "/TrufaCafe/static/media/book-minimalistic-svgrepo-com.745625f4f7ce708298b4bd208f04d3f2.svg",
-    "static/media/instagram-svgrepo-com.svg": "/TrufaCafe/static/media/instagram-svgrepo-com.1400fe324a8b73eaec1ea8bfae4dce96.svg",
-    "static/media/google-178-svgrepo-com.svg": "/TrufaCafe/static/media/google-178-svgrepo-com.703103b46294fb25a6f6a7efe5952835.svg",
-    "static/media/wifi-svgrepo-com.svg": "/TrufaCafe/static/media/wifi-svgrepo-com.9258f9e1e12ab682d3b3b22442d5f38e.svg",
-    "static/media/coffee-svgrepo-com.svg": "/TrufaCafe/static/media/coffee-svgrepo-com.d11e22fbfc545d2659f6ffe6cb91ed24.svg",
-    "static/media/coffee-cup-svgrepo-com.svg": "/TrufaCafe/static/media/coffee-cup-svgrepo-com.7ea4e35aa2df6ef5fa583aa3d774e20a.svg",
-    "static/media/cookie-svgrepo-com.svg": "/TrufaCafe/static/media/cookie-svgrepo-com.65ddd81851a3013ad83d69a50ab97139.svg",
-    "index.html": "/TrufaCafe/index.html",
-    "main.ecfd44b2.css.map": "/TrufaCafe/static/css/main.ecfd44b2.css.map",
-    "main.25457131.js.map": "/TrufaCafe/static/js/main.25457131.js.map",
-    "453.e01da9ef.chunk.js.map": "/TrufaCafe/static/js/453.e01da9ef.chunk.js.map"
+    "main.css": "/static/css/main.ecfd44b2.css",
+    "main.js": "/static/js/main.bec5a175.js",
+    "static/js/453.e01da9ef.chunk.js": "/static/js/453.e01da9ef.chunk.js",
+    "static/media/LogoTrufa.png": "/static/media/LogoTrufa.fa7a515d880622276a15.png",
+    "static/media/book-minimalistic-svgrepo-com.svg": "/static/media/book-minimalistic-svgrepo-com.745625f4f7ce708298b4bd208f04d3f2.svg",
+    "static/media/instagram-svgrepo-com.svg": "/static/media/instagram-svgrepo-com.1400fe324a8b73eaec1ea8bfae4dce96.svg",
+    "static/media/google-178-svgrepo-com.svg": "/static/media/google-178-svgrepo-com.703103b46294fb25a6f6a7efe5952835.svg",
+    "static/media/wifi-svgrepo-com.svg": "/static/media/wifi-svgrepo-com.9258f9e1e12ab682d3b3b22442d5f38e.svg",
+    "static/media/coffee-svgrepo-com.svg": "/static/media/coffee-svgrepo-com.d11e22fbfc545d2659f6ffe6cb91ed24.svg",
+    "static/media/coffee-cup-svgrepo-com.svg": "/static/media/coffee-cup-svgrepo-com.7ea4e35aa2df6ef5fa583aa3d774e20a.svg",
+    "static/media/cookie-svgrepo-com.svg": "/static/media/cookie-svgrepo-com.65ddd81851a3013ad83d69a50ab97139.svg",
+    "index.html": "/index.html",
+    "main.ecfd44b2.css.map": "/static/css/main.ecfd44b2.css.map",
+    "main.bec5a175.js.map": "/static/js/main.bec5a175.js.map",
+    "453.e01da9ef.chunk.js.map": "/static/js/453.e01da9ef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ecfd44b2.css",
-    "static/js/main.25457131.js"
+    "static/js/main.bec5a175.js"
   ]
 }
