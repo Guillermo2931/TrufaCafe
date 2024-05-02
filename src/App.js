@@ -8,9 +8,9 @@ import { ReactComponent as Wifi } from './resources/wifi-svgrepo-com.svg';
 import { ReactComponent as Menu } from './resources/book-minimalistic-svgrepo-com.svg';
 import { ReactComponent as Google } from './resources/google-178-svgrepo-com.svg';
 import { ReactComponent as Insta } from './resources/instagram-svgrepo-com.svg';
-import MenuPDF from `${process.env.PUBLIC_URL}/myfile.pdf`; 
 
 function App() {
+  const menuPdfUrl = `${process.env.PUBLIC_URL}/Menu.pdf`
   const [isVisible, setIsVisible] = useState(false);
 
   const mostrarWifi = () => {
@@ -30,7 +30,7 @@ function App() {
           <hr className='LineaSeparador' ></hr>
         </div>
         <div className='ContenedorBoton'>
-          <a href={MenuPDF} target="_blank" className='AnclaBoton'> 
+          <a href={menuPdfUrl} target="_blank" className='AnclaBoton' rel="noopener noreferrer"> 
             <button className='Boton' id='BtnMenu'> <Menu className='MenuLogo'/> MENÚ </button>
           </a>
         </div>
