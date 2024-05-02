@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+.ContenedorPrincipal {
+  margin-top: 10vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.ImagenLogoContenedor{
+  text-align: center;
+}
+
+.ImagenLogo{
+  width: 45vw;
+  height: 45vw;
+  max-width: 250px;
+  max-height: 250px;
+}
+.Separador{
+  display: flex; 
+  align-items: center; 
+  justify-content: space-between; 
+}
+.LineaSeparador{
+  width:40vw;
+  height: 1px;
+  background-color: #6B4319;
+}
+.ImgSeparador{
+  width: 10vw;
+  height: 10vw;
+  max-width: 35px;
+  max-width: 35px;
+}
+
+.ContenedorContenido{
+  justify-content: center;
+  margin-right: 5vw;
+  margin-left: 5vw;
+}
+
+.Separador{
+  margin-top: .5vh;
+  margin-bottom: .5vh;
+  height: 4vh;
+}
+
+.ContenedorBoton{
+  margin-top: .5vh;
+  margin-bottom: .5vh;
+}
+
+.AnclaBoton{
+  text-decoration: none;
+  color: inherit;
+}
+
+.Boton{
+  width: 90vw;
+  height: 6vh;
+  border: 1px solid;
+  border-color: #33302E;
+  border-radius: 5px;
+  font-size: 2vh;
+  font-weight: bold;
+  color: azure;
+  font-family: 'Roboto' ;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.MenuLogo{
+  width: 5vw;
+  height: 5vw;
+  margin-right: 1vw;
+  max-width: 35px;
+  max-width: 35px;
+}
+.GoogleLogo{
+  width: 5vw;
+  height: 5vw;
+  margin-right: 1vw;
+  max-width: 35px;
+  max-width: 35px;
+}
+.InstaLogo{
+  width: 5vw;
+  height: 5vw;
+  margin-right: 1vw;
+  max-width: 35px;
+  max-width: 35px;
+}
+
+#BtnMenu{
+  background-color:#BD6F2E ;
+}
+
+#BtnExp{
+  background-color:#92583F ;
+}
+
+#BtnIns{
+  background-color:#A26620 ;
+}
+
+#BtnWifi{
+  background-color:#6B4319;
+}
+
+.WiFiCont{
+  height: 6vh ;
+  width: 90vw;
+}
+
+#NombreWifi{
+  margin-top: 3vh;
+}
+
+.DescripcionWifi{
+  font-weight: bold;
+  font-family: 'Roboto' ;
+}
+
+.ContenidoWifi{
+  font-family: 'Roboto' ;
+}
