@@ -40,7 +40,7 @@ function App() {
           <hr className='LineaSeparador' ></hr>
         </div>
         <div className='ContenedorBoton'>
-          <a className='AnclaBoton' href="https://www.google.com/search?q=trufa+cafe&sca_esv=2f61a0c390a4d1ff&sca_upv=1&authuser=2&sxsrf=ACQVn09IxOaF2MNMP6I2XCTq8qwp6mHhkg%3A1714540773329&ei=5dAxZsTeE57Ap84Pu9a8cA&ved=0ahUKEwiE5fyN2uuFAxUe4MkDHTsrDw4Q4dUDCBA&uact=5&oq=trufa+cafe&gs_lp=Egxnd3Mtd2l6LXNlcnAiCnRydWZhIGNhZmUyBhAAGAcYHjIGEAAYBxgeMgYQABgHGB4yBhAAGAcYHjIIEAAYBxgeGA8yCxAuGIAEGMcBGK8BMgUQABiABDIEEAAYHjIGEAAYCBgeMgYQABgIGB5IgAxQ6AVYmwhwAXgBkAEAmAFroAGlAqoBAzIuMbgBA8gBAPgBAZgCBKACtALCAgoQABiwAxjWBBhHwgIHECMYsAIYJ8ICBxAAGIAEGA3CAggQABgHGAgYHsICDRAuGIAEGMcBGA0YrwHCAgYQABgNGB6YAwCIBgGQBgiSBwMyLjKgB-wa&sclient=gws-wiz-serp"> 
+          <a className='AnclaBoton' href="https://g.co/kgs/RSnexwa"> 
             <button className='Boton' id='BtnExp'> <Google className='GoogleLogo'/>  COMPARTE TU EXPERIENCIA </button>
           </a>
         </div>
